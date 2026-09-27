@@ -1,5 +1,7 @@
 body {
 	margin: 0;
-	color: #222;
-	font-family: Arial, sans-serif;
+	min-height: 100vh;
+	background: #f3f5f4;
+	color: #26332c;
+	font-family: 'Trebuchet MS', sans-serif;
 }
